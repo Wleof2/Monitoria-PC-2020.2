@@ -3,4 +3,4 @@ Acervo de códigos produzidos durante a monitoria de Programação de Computador
 
 | Aulas |
 |:---:|
-| [03-03-2021](/03-03-2021/) |
+| [03-03-2021](./03-03-2021/) |
